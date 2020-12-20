@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="fix_user_db@localhost" uuid="faa6a0b2-6b9d-4668-9974-4aa3e16b7ec3">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/fix_user_db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="app_db_quots" uuid="7bdc5483-69bc-4104-b031-bebefb3446a0">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://ec2-3-251-0-202.eu-west-1.compute.amazonaws.com:5432/dak8odj9smus8t</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="db_quotes" uuid="f20904f1-cf4e-4290-9d55-a5dda00ecc6f">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://ec2-54-247-122-209.eu-west-1.compute.amazonaws.com:5432/d8dtbakeoci8qi</jdbc-url>
+    </data-source>
+  </component>
+</project>

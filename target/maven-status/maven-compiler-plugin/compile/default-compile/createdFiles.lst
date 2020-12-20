@@ -1,0 +1,14 @@
+ru\mvc\interceptors\Authorization.class
+ru\mvc\forms\UserForm.class
+ru\mvc\models\User$UserBuilder.class
+ru\mvc\controllers\ControllerForQuotesList.class
+ru\mvc\controllers\ErrorController.class
+ru\mvc\models\User.class
+ru\mvc\repositories\QuotesRepository.class
+ru\mvc\repositories\UsersRepository.class
+ru\mvc\interceptors\AuthorizationAlready.class
+ru\mvc\models\Quote$QuoteBuilder.class
+ru\mvc\models\Quote.class
+ru\mvc\controllers\QuotesController.class
+ru\mvc\controllers\ControllerToAccess.class
+ru\mvc\config\ConfigJpa.class
